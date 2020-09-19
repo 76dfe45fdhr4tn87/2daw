@@ -2,7 +2,7 @@
 
 Style   : MobApp Script JS
 Version : 1.0
-Author  : Surjith S M
+Author  : Esteban Herrera
 URI     : https://surjithctly.in/
 
 Copyright © All rights Reserved 
